@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/Celso0408/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Celso0408&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Celso0408/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso0408&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Celso0408/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Celso0408&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Celso0408's github stats" /></a> | <a href="https://github.com/Celso0408/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celso0408&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
