@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
 
- ## Snake eating my commits
+ ##
   ![snake gif](https://github.com/Celso0408/Celso0408/blob/output/github-contribution-grid-snake.gif)
