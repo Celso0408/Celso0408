@@ -1,6 +1,6 @@
 ### Hello World, I'm Celso Ricardo  👋
 
-## I'm a Father, Physicist, and Developer !!
+## I'm a Husband, Father, Physicist, and Developer !!
 - ✍ You can find my projects here
 - 💬 Ask me about ... Anything
 
@@ -16,6 +16,10 @@
   ### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Fortran" width="26px"
+src="https://raw.githubusercontent.com/awvwgk/fpm-logo/main/logo.svg" />
+<img align="left" alt="Matlab" width="26px"
+src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
